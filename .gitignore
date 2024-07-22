@@ -1,0 +1,14 @@
+# Ignore node_modules directory in any subdirectory
+**/node_modules/
+
+# Ignore .sclintrc.js file in any subdirectory
+**/.sclintrc.js
+
+# Ignore babel.config.js file in any subdirectory
+**/babel.config.js
+
+# Ignore package-lock.json file in any subdirectory
+**/package-lock.json
+
+# Ignore package.json file in any subdirectory
+**/package.json
