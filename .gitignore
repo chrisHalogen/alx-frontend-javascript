@@ -2,7 +2,7 @@
 **/node_modules/
 
 # Ignore .sclintrc.js file in any subdirectory
-**/.sclintrc.js
+**/.eslintrc.js
 
 # Ignore babel.config.js file in any subdirectory
 **/babel.config.js
