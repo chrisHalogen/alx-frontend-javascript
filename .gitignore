@@ -2,13 +2,13 @@
 **/node_modules/
 
 # Ignore .sclintrc.js file in any subdirectory
-**/.eslintrc.js
+# **/.eslintrc.js
 
 # Ignore babel.config.js file in any subdirectory
-**/babel.config.js
+# **/babel.config.js
 
 # Ignore package-lock.json file in any subdirectory
-**/package-lock.json
+# **/package-lock.json
 
 # Ignore package.json file in any subdirectory
-**/package.json
+# **/package.json
